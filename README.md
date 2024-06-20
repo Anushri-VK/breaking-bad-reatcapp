@@ -1,3 +1,5 @@
+[![Python application test with Github Actions](https://github.com/Anushri-VK/breaking-bad-reatcapp/actions/workflows/testing-ci.yml/badge.svg)](https://github.com/Anushri-VK/breaking-bad-reatcapp/actions/workflows/testing-ci.yml)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
